@@ -28,13 +28,13 @@
 
 ### INSTALL SCRIPT 
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Amchapeey/strategic/main/chapeey.sh && chmod +x chapeey.sh && ./chapeey.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Itchyfingers254/strategic/main/chapeey.sh && chmod +x genz.sh && ./genz.sh
 
 ```
 
 ### UPDATED SCRIPT
 ```
-wget https://raw.githubusercontent.com/Amchapeey/strategic/main/update.sh && chmod +x update.sh && ./update.sh
+wget https://raw.githubusercontent.com/Itchyfingers254/strategic/main/update.sh && chmod +x update.sh && ./update.sh
 
 ```
 ### TESTED ON OS 
