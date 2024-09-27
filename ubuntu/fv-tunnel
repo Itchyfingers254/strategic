@@ -1,14 +1,14 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » chapeey
+# Develovers » sucky_hacker
 # Email      » harrisonreycaspian@gmail.com 
 # telegram   » https://t.me/sucky_hacker 
 # whatsapp   » wa.me/+254708654493
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # chapeey
 
-REPO="https://raw.githubusercontent.com/Amchapeey/strategic/main/"
+REPO="https://raw.githubusercontent.com/Itchyfingers254/strategic/main/"
 
 wget -q -O /etc/systemd/system/limitvmess.service "${REPO}ubuntu/limitvmess.service" && chmod +x limitvmess.service >/dev/null 2>&1
 wget -q -O /etc/systemd/system/limitvless.service "${REPO}ubuntu/limitvless.service" && chmod +x limitvless.service >/dev/null 2>&1
